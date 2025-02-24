@@ -1,9 +1,126 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="YE_HQxmWjEO1Y7BAYPPF">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1VgsUQ58sX3mkb50u65D-6" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-7" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-6">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-8" value="Générer de l&#39;électricité" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1VgsUQ58sX3mkb50u65D-6">
+          <mxGeometry y="20" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-9" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-6">
+          <mxGeometry y="38" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-10" value="text=&quot;Le système doit être capable de générer de l&#39;électricité pour l&#39;utilisateur&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-6">
+          <mxGeometry y="46" width="200" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-11" value="Id=&quot;1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-6">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-12" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-6">
+          <mxGeometry y="120" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-13" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-14" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-13">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-15" value="Résister aux conditions" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1VgsUQ58sX3mkb50u65D-13">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-16" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-13">
+          <mxGeometry y="48" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-17" value="text=&quot;Le système doit être capable de résister aux conditions météorologiques et environnemental&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-13">
+          <mxGeometry y="56" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-18" value="Id=&quot;1.2&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-13">
+          <mxGeometry y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-19" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-13">
+          <mxGeometry y="140" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-20" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-21" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-20">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-22" value="Transmettre les informations" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1VgsUQ58sX3mkb50u65D-20">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-23" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-20">
+          <mxGeometry y="48" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-24" value="text=&quot;Le système doit être capable de résister aux conditions météorologiques et environnemental&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-20">
+          <mxGeometry y="56" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-25" value="Id=&quot;1.3&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-20">
+          <mxGeometry y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-26" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-20">
+          <mxGeometry y="140" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-27" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="250" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-28" value="&amp;lt;&amp;lt;PerformanceRequirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-27">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-29" value="Générer une quantité minimum" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1VgsUQ58sX3mkb50u65D-27">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-30" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-27">
+          <mxGeometry y="48" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-31" value="text=&quot;Le système doit être capable de résister aux conditions météorologiques et environnemental&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-27">
+          <mxGeometry y="56" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-32" value="Id=&quot;1.4&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-27">
+          <mxGeometry y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-33" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-27">
+          <mxGeometry y="140" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-34" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="250" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-35" value="&amp;lt;&amp;lt;PhysicalRequirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-34">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-36" value="Respecter les dimensions" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1VgsUQ58sX3mkb50u65D-34">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-37" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-34">
+          <mxGeometry y="48" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-38" value="text=&quot;Le système doit respecter les dimensions tout en générant suffisament d&#39;énérgie&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-34">
+          <mxGeometry y="56" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-39" value="Id=&quot;1.1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-34">
+          <mxGeometry y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-40" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-34">
+          <mxGeometry y="140" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VgsUQ58sX3mkb50u65D-11" target="1VgsUQ58sX3mkb50u65D-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VgsUQ58sX3mkb50u65D-11" target="1VgsUQ58sX3mkb50u65D-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VgsUQ58sX3mkb50u65D-11" target="1VgsUQ58sX3mkb50u65D-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VgsUQ58sX3mkb50u65D-11" target="1VgsUQ58sX3mkb50u65D-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
