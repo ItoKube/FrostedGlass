@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="YE_HQxmWjEO1Y7BAYPPF">
-    <mxGraphModel dx="2514" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2193" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,11 +314,35 @@
         <mxCell id="1VgsUQ58sX3mkb50u65D-112" value="text=&quot;Le système doit intégré un solénïde qui bloquerai le mouvement de l&#39;aimant afin d&#39;éviter la casse&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-108">
           <mxGeometry y="56" width="200" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="1VgsUQ58sX3mkb50u65D-113" value="Id=&quot;1.2.2&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-108">
+        <mxCell id="1VgsUQ58sX3mkb50u65D-113" value="Id=&quot;1.2.2.1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-108">
           <mxGeometry y="110" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1VgsUQ58sX3mkb50u65D-114" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-108">
           <mxGeometry y="140" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-115" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="920" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-116" value="&amp;lt;&amp;lt;FunctionalRequirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-115">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-117" value="Solénoïde" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1VgsUQ58sX3mkb50u65D-115">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-118" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-115">
+          <mxGeometry y="48" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-119" value="text=&quot;Le système doit intégré un solénïde qui bloquerai le mouvement de l&#39;aimant afin d&#39;éviter la casse&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-115">
+          <mxGeometry y="56" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-120" value="Id=&quot;1.2.2&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-115">
+          <mxGeometry y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-121" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1VgsUQ58sX3mkb50u65D-115">
+          <mxGeometry y="140" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgsUQ58sX3mkb50u65D-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VgsUQ58sX3mkb50u65D-53" target="1VgsUQ58sX3mkb50u65D-119">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
